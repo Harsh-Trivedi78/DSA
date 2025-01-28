@@ -35,6 +35,6 @@ public class ShortestPath {
     }
     public static void main(String[] args) {
         String Path = "WNEENESENNN";
-        System.out.println(getShortestPath(Path));//print
+        System.out.println(getShortestPath(Path));
     }
 }
